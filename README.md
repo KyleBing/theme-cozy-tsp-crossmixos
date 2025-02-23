@@ -28,7 +28,6 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
    - theme deploy file `Cozy.sh`
    - theme files
    - replace all app's icon into cozy style (irreversible)
-   - replace all system app's icon into cozy style (irreversible)
 7. Navigate to **System Tools** -> **Theme** -> **Cozy** to switch to the Cozy theme.
 8. Done! Enjoy your new theme.
 
