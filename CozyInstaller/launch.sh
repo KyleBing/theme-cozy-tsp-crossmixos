@@ -38,17 +38,21 @@ replace_app_icons_system(){
       /mnt/SDCARD/System/usr/trimui/scripts/infoscreen.sh -c "255,59,48" -m "Fail - ${icon_path}  is not exist"
     fi
   done
+}
 
-  # system game icon
-#  system_game_icon_path='/mnt/SDCARD/trimui/res/skin/ic-game-580.png'
-#  cozy_game_icon_path="${source_folder}/trimui/res/skin/ic-game-580.png"
-#  if [ -f "${system_game_icon_path}" ]; then
-#    if ( cp "${cozy_game_icon_path}" "${system_game_icon_path}" ); then
-#      /mnt/SDCARD/System/usr/trimui/scripts/infoscreen.sh -i ${bg_ongoing} -m "SUCCESS - ${system_game_icon_path}"
-#    fi
-#  else
-#    /mnt/SDCARD/System/usr/trimui/scripts/infoscreen.sh -c "255,59,48" -m "Fail - ${system_game_icon_path}  is not exist"
-#  fi
+# replace system message bg image
+replace_message_bg_system(){
+  bg_ongoing="./bg_icon_system.png"
+	source_folder="./ThemeFiles/trimui/res/crossmix-os/style_Cozy/"
+	target_folder="/mnt/SDCARD/trimui/res/crossmix-os/"
+
+  if [ -d "${target_folder}" ]; then
+    if ( cp -r "${source_folder}" "${target_folder}" ); then
+      /mnt/SDCARD/System/usr/trimui/scripts/infoscreen.sh -i ${bg_ongoing} -m "SUCCESS - ${target_folder}style_Cozy"
+    fi
+  else
+    /mnt/SDCARD/System/usr/trimui/scripts/infoscreen.sh -c "255,59,48" -m "Fail - ${source_folder}  is not exist"
+  fi
 }
 
 # add theme boot logo image file to BootLogo app's resource folder
@@ -121,6 +125,7 @@ main() {
 	if [ "$button" = "A" ]; then
 		replace_app_icons
 		replace_app_icons_system
+		replace_message_bg_system
 		add_boot_logo
 		add_theme_deploy_file
 		add_emu_icons

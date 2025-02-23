@@ -4,5 +4,5 @@
     "icon": "icon.png",
     "iconsel": "icon.png",
     "launch": "launch.sh",
-    "description": "Apply all necessary files is CrossMix OS."
+    "description": "Apply all necessary theme files to CrossMix OS."
 }

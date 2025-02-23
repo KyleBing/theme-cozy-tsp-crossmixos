@@ -9,6 +9,11 @@
 # emulabels: Choose if you want to display Emulators labels or not.
 #        use the label script name from "Apps\SystemTools\Menu\ADVANCED SETTINGS##EMULATOR LABELS (value)" (without extension).
 
+
+# About style section
+# I have add a new set of bg in /SDCard/trimui/res/crossmix-os/style_Cozy
+# So for theme Cozy, there is another value available: Cozy
+
 packname="Cozy"
 style="Cozy"
 theme="Cozy"
