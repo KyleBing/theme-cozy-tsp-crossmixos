@@ -1,5 +1,7 @@
 ![Preview](./Photos/cozy_2000w_1.jpg)
 
+[查看中文说明 →](./README_ch.md)
+
 # Theme Cozy 
 for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 
@@ -15,7 +17,7 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 
 1. Download project file. 
    <img width="953" alt="download instruction" src="https://github.com/user-attachments/assets/4835a0ee-6730-4fab-bc97-7870b8a9f50b" />
-2. Put folder `CozyInstaller` into SDCard's `Themes` folder.
+2. Put folder `CozyInstaller` into SDCard's `Apps` folder.
 3. Insert SDCard to TSP and reboot it.
 4. Switch to Apps tab, you will see an app **Cozy Installer**
     <img width="200" alt="cozy installer app" src="./CozyInstaller/icon.png"/>  
@@ -60,7 +62,7 @@ ADVANCED FILE REPLACEMENT
 
 ## Credit
 
-**Nunwen Font:** by tenlevels (merged Nunito by Vernon Adams and wqy-microhei from Miyoo)  
+**Nunwen Font:** by [tenlevels](https://github.com/tenlevels) (merged Nunito by Vernon Adams and wqy-microhei from Miyoo)  
 
 
 ## Other themes
