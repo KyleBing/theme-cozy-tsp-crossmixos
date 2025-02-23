@@ -1,0 +1,8 @@
+{
+    "package": "cn.kylebing.cozy_installer",
+    "label": "Cozy Installer",
+    "icon": "icon.png",
+    "iconsel": "icon.png",
+    "launch": "launch.sh",
+    "description": "Apply all necessary files is CrossMix OS."
+}
