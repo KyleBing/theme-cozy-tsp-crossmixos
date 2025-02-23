@@ -10,7 +10,7 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 
 ## Instructions - App install
 
-> IMPORTANT:   
+> [!IMPORTANT]  
 > Your TrimUI Smart Pro's version need to be v1.3.0  
 > You can find the latest version in [https://github.com/cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS)
 

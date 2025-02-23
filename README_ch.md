@@ -10,7 +10,7 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 
 ## 一、安装说明 - 通过 App 安装
 
-> 重要:   
+> [!IMPORTANT]   
 > 你的设备需要安装 CrossMix OS，并且版本是 v1.3.0  
 > 从这里更新最新系统 [https://github.com/cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS)
 
