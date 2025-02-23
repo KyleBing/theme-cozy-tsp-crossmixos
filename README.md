@@ -58,7 +58,21 @@ ADVANCED FILE REPLACEMENT
 7. Open **SystemTools** -> **Theme** -> **Cozy**, will switch to theme Cozy.
 8. Done, enjoy.
 
+## Credit
 
+**Nunwen Font:** by tenlevels (merged Nunito by Vernon Adams and wqy-microhei from Miyoo)  
+
+
+## Other themes
+
+I’ve previously created themes for two other open-source handheld devices. Feel free to check them out if you’re interested!
+
+- Cosy for Miyoo Mini+ `OnionOS` [onion-theme-cosy](https://github.com/KyleBing/onion-theme-cosy)
+- Cosy for Miyoo Flip `OnionOS` [theme-cosy-miyoo-flip-stock](https://github.com/KyleBing/theme-cosy-miyoo-flip-stock)
+- Cosy for Miyoo A30 `SpruceOS` [spruce-theme-cosy](https://github.com/KyleBing/spruce-theme-cosy)
+
+Here are some retro console icon files available for you to use freely.
+- [retro-game-console-icons](https://github.com/KyleBing/retro-game-console-icons)
 
 ## Files
 
