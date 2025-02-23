@@ -15,50 +15,54 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 > You can find the latest version in [https://github.com/cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS)
 
 
-1. Download project file. 
+1. Download the project file.
    <img width="953" alt="download instruction" src="https://github.com/user-attachments/assets/4835a0ee-6730-4fab-bc97-7870b8a9f50b" />
-2. Put folder `CozyInstaller` into SDCard's `Apps` folder.
-3. Insert SDCard to TSP and reboot it.
-4. Switch to Apps tab, you will see an app **Cozy Installer**
+2. Place the `CozyInstaller` folder into your SD card's `Apps` folder.
+3. Insert the SD card into your TSP device and reboot it.
+4. Switch to the Apps tab, where you’ll see an app named **Cozy Installer**.
     <img width="200" alt="cozy installer app" src="./CozyInstaller/icon.png"/>  
-5. Open it and you will see the instruction like this:
+5. Open the app to view the instructions, as shown below:
     ![cozy_installer_instruction](./CozyInstaller/instruction.png)
 
-6. Press button <kbd>A</kbd>, the app will install theme cozy into your SDCard automatically, including:
+6. Press <kbd>A</kbd> to automatically install the Cozy theme onto your SD card. This includes:
    - theme deploy file `Cozy.sh`
    - theme files
    - replace all app's icon into cozy style (irreversible)
    - replace all system app's icon into cozy style (irreversible)
-7. Open **SystemTools** -> **Theme** -> **Cozy**, will switch to theme Cozy.
-8. Done, enjoy.
+7. Navigate to **System Tools** -> **Theme** -> **Cozy** to switch to the Cozy theme.
+8. Done! Enjoy your new theme.
 
 
 ## Instructions - Manual install
 
 > IMPORTANT:   
-> Your TrimUI Smart Pro's version need to be v1.3.0  
-> You can find the latest version in [https://github.com/cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS)
+> Your TrimUI Smart Pro must be running version 1.3.0.
+> You can find the latest version at [https://github.com/cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS)
 
-The process of manual installing is exact like App Installing.
-So I recommend you use app install this theme.
-Consider this only if App installing is unalienable for you. This can only happen if you change too much CrossMix OS's file structure.
+The process of manual installation is exactly the same as app installation.   
+Therefore, I recommend using the app to install this theme.
 
-1. Download project file.
+Only consider manual installation if the app installation is not feasible for you.   
+This situation may arise if you’ve made significant changes to CrossMix OS's file structure.
+
+
+1. Download the project file.
    <img width="953" alt="download instruction" src="https://github.com/user-attachments/assets/4835a0ee-6730-4fab-bc97-7870b8a9f50b" />
-2. Copy folder `CozyInstaller/ThemeFiles/Themes/Cozy` to SDCard's `Themes` folder.
-3. On TrimUI Smart Pro:  **Setting** -> **Themes** -> **Cozy**
-4. Basic theme files are applied.
+2. Copy the folder `CozyInstaller/ThemeFiles/Themes/Cozy` to your SD card's `Themes` folder.
+3. On your TrimUI Smart Pro, navigate to: **Settings** -> **Themes** -> **Cozy**.
+4. The basic theme files will now be applied
 
-ADVANCED FILE REPLACEMENT
+### ADVANCED FILE REPLACEMENT
 
-1. Match and replace all normal app icon files in  `/mnt/SDCard/Apps/` with  `/CozyInstaller/ThemeFiles/Apps/`.
-2. Match and replace all system app icon files in  `/usr/trimui/apps/` with  `/CozyInstaller/ThemeFiles/usr/trimui/apps/`.
-3. Add BootLogo `/CozyInstaller/ThemeFiles/BOOT_LOGO/COZY.bmp` to folder `/mnt/SDCARD/Apps/BootLogo/Images/`.
-4. Add theme deploy file `/CozyInstaller/ThemeFiles/Cozy.sh` to folder `/mnt/SDCARD/Apps/SystemTools/Menu/THEME##THEME PACK (value)/`.
-5. Copy folder `/CozyInstaller/ThemeFiles/Icons/Cozy/` into folder `/mnt/SDCARD/Icons/`
-6. Copy folder `/CozyInstaller/ThemeFiles/trimui/res/crossmix-os/style_Cozy/` into folder `/mnt/SDCARD/trimui/res/crossmix-os/`
-7. Open **SystemTools** -> **Theme** -> **Cozy**, will switch to theme Cozy.
-8. Done, enjoy.
+
+1. Match and replace all normal app icon files in `/mnt/SDCard/Apps/` with the corresponding files in `/CozyInstaller/ThemeFiles/Apps/`.
+2. Match and replace all system app icon files in `/usr/trimui/apps/` with the corresponding files in `/CozyInstaller/ThemeFiles/usr/trimui/apps/`.
+3. Add the BootLogo file `/CozyInstaller/ThemeFiles/BOOT_LOGO/COZY.bmp` to the folder `/mnt/SDCARD/Apps/BootLogo/Images/`.
+4. Add the theme deployment file `/CozyInstaller/ThemeFiles/Cozy.sh` to the folder `/mnt/SDCARD/Apps/SystemTools/Menu/THEME##THEME PACK (value)/`.
+5. Copy the folder `/CozyInstaller/ThemeFiles/Icons/Cozy/` into the folder `/mnt/SDCARD/Icons/`.
+6. Copy the folder `/CozyInstaller/ThemeFiles/trimui/res/crossmix-os/style_Cozy/` into the folder `/mnt/SDCARD/trimui/res/crossmix-os/`.
+7. Navigate to **System Tools** -> **Theme** -> **Cozy** to switch to the Cozy theme.
+8. Done! Enjoy your new theme.
 
 ## Credit
 
@@ -67,11 +71,11 @@ ADVANCED FILE REPLACEMENT
 
 ## Other themes
 
-I’ve previously created themes for two other open-source handheld devices. Feel free to check them out if you’re interested!
+I’ve previously created themes for three other open-source handheld devices. Feel free to check them out if you’re interested!
 
-- Cosy for Miyoo Mini+ `OnionOS` [onion-theme-cosy](https://github.com/KyleBing/onion-theme-cosy)
-- Cosy for Miyoo Flip `OnionOS` [theme-cosy-miyoo-flip-stock](https://github.com/KyleBing/theme-cosy-miyoo-flip-stock)
-- Cosy for Miyoo A30 `SpruceOS` [spruce-theme-cosy](https://github.com/KyleBing/spruce-theme-cosy)
+- **Cosy for Miyoo Mini+** `OnionOS` [onion-theme-cosy](https://github.com/KyleBing/onion-theme-cosy)
+- **Cosy for Miyoo Flip** `OnionOS` [theme-cosy-miyoo-flip-stock](https://github.com/KyleBing/theme-cosy-miyoo-flip-stock)
+- **Cosy for Miyoo A30** `SpruceOS` [spruce-theme-cosy](https://github.com/KyleBing/spruce-theme-cosy)
 
 Here are some retro console icon files available for you to use freely.
 - [retro-game-console-icons](https://github.com/KyleBing/retro-game-console-icons)
