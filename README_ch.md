@@ -14,7 +14,17 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 ![Preview](./Photos/cozy_2000w_4.jpg)
 
 
-## 一、安装说明 - 通过 App 安装
+
+## 一、安装说明 - 只安装主题文件
+
+1. 下载整个项目文件。
+   <img width="953" alt="download instruction" src="https://github.com/user-attachments/assets/4835a0ee-6730-4fab-bc97-7870b8a9f50b" />
+2. 复制文件夹 `CozyInstaller/ThemeFiles/Themes/Cozy` 到内存卡的 `Themes` 文件夹。
+3. 在设备上切换主题  **Setting** -> **Themes** -> **Cozy**
+
+
+
+## 二、安装说明 - 通过 App 安装
 
 > [!IMPORTANT]   
 > 你的设备需要安装 CrossMix OS，并且版本是 v1.3.0  
@@ -26,7 +36,7 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
    <img width="953" alt="download instruction" src="https://github.com/user-attachments/assets/4835a0ee-6730-4fab-bc97-7870b8a9f50b" />
 2. 把下载好的 `CozyInstaller` 文件夹放到内存卡的 `Apps` 文件夹下。
 3. 内存卡放回设备中，开机。
-4. 切到 **Apps** 标签，你会看到多出一个 app 名为 **Cozy Installer**
+4. 切到 **Apps** 标签，你会看到多出一个 app 名为 **Cozy Installer**  
     <img width="200" alt="cozy installer app" src="./CozyInstaller/icon.png"/>  
 5. 打开它，就能看到里面的提示如下，就是提示一些要添加或替换的文件：
     ![cozy_installer_instruction](./CozyInstaller/instruction.png)
@@ -40,13 +50,13 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 8. 完成。
 
 
-## 二、安装说明 - 手动安装
+## 三、安装说明 - 手动安装
 
 > [!IMPORTANT]  
 > 你的设备需要安装 CrossMix OS，并且版本是 v1.3.0  
 > 从这里更新最新系统 [https://github.com/cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS)
 
-手动安装的过程，完全是上面 app 安装的所有过程。
+手动安装的过程，完全是上面 app 安装的所有过程。  
 所以如果不是你非常大尺度的修改了整个系统的目录结构，还是建议使用 app 安装，省劲儿。
 
 1. 下载整个项目文件。

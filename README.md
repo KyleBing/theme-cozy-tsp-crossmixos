@@ -15,7 +15,16 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 ![Preview](./Photos/cozy_2000w_4.jpg)
 
 
-## Instructions - App install
+
+## Instructions - Theme files only
+
+1. Download the project file.
+   <img width="953" alt="download instruction" src="https://github.com/user-attachments/assets/4835a0ee-6730-4fab-bc97-7870b8a9f50b" />
+2. Copy the folder `CozyInstaller/ThemeFiles/Themes/Cozy` to your SD card's `Themes` folder.
+3. **Settings** -> **Themes** -> **Cozy**
+
+
+## Instructions - fully - App install
 
 > [!IMPORTANT]  
 > Your TrimUI Smart Pro's version need to be v1.3.0  
@@ -28,7 +37,7 @@ You can use this app by following the instructions below.
    <img width="953" alt="download instruction" src="https://github.com/user-attachments/assets/4835a0ee-6730-4fab-bc97-7870b8a9f50b" />
 2. Place the `CozyInstaller` folder into your SD card's `Apps` folder.
 3. Insert the SD card into your TSP device and reboot it.
-4. Switch to the Apps tab, where you’ll see an app named **Cozy Installer**.
+4. Switch to the Apps tab, where you’ll see an app named **Cozy Installer**.  
     <img width="200" alt="cozy installer app" src="./CozyInstaller/icon.png"/>  
 5. Open the app to view the instructions, as shown below:
     ![cozy_installer_instruction](./CozyInstaller/instruction.png)
@@ -41,10 +50,10 @@ You can use this app by following the instructions below.
 8. Done! Enjoy your new theme.
 
 
-## Instructions - Manual install
+## Instructions - fully - Manual install
 
 > [!IMPORTANT]  
-> Your TrimUI Smart Pro must be running version 1.3.0.
+> Your TrimUI Smart Pro must be running version 1.3.0.  
 > You can find the latest version at [https://github.com/cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS)
 
 The process of manual installation is exactly the same as app installation.   
