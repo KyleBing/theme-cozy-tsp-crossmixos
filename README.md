@@ -63,9 +63,11 @@ This situation may arise if you’ve made significant changes to CrossMix OS's f
 7. Navigate to **System Tools** -> **Theme** -> **Cozy** to switch to the Cozy theme.
 8. Done! Enjoy your new theme.
 
+
 ## Credit
 
-**Nunwen Font:** by [tenlevels](https://github.com/tenlevels) (merged Nunito by Vernon Adams and wqy-microhei from Miyoo)  
+**Font noto-sans:** from [fontsource](https://github.com/fontsource/fontsource)
+
 
 
 ## Other themes
@@ -196,9 +198,8 @@ CozyInstaller
 │   │       └── preview.png
 │   ├── Themes
 │   │   └── Cozy
-│   │       ├── Galvji.ttf
 │   │       ├── config.json
-│   │       ├── nunwen.ttf
+│   │       ├── noto-sans.ttf
 │   │       ├── preview-2.png
 │   │       ├── preview-2@1x.png
 │   │       ├── preview.png
@@ -380,6 +381,6 @@ CozyInstaller
 ├── instruction.png
 └── launch.sh
 
-37 directories, 259 files
+37 directories, 258 files
 
 ```

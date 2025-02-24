@@ -59,9 +59,11 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 7. 依次打开 **SystemTools** -> **Theme** -> **Cozy**，就会自动部署这个主题。
 8. 完成。
 
-## 支持
 
-**Nunwen 字段:** by [tenlevels](https://github.com/tenlevels) (merged Nunito by Vernon Adams and wqy-microhei from Miyoo)  
+## Credit
+
+**Font noto-sans:** from [fontsource](https://github.com/fontsource/fontsource)
+
 
 
 ## 我的其它掌机主题
@@ -193,9 +195,8 @@ CozyInstaller
 │   │       └── preview.png
 │   ├── Themes
 │   │   └── Cozy
-│   │       ├── Galvji.ttf
 │   │       ├── config.json
-│   │       ├── nunwen.ttf
+│   │       ├── noto-sans.ttf
 │   │       ├── preview-2.png
 │   │       ├── preview-2@1x.png
 │   │       ├── preview.png
@@ -377,6 +378,6 @@ CozyInstaller
 ├── instruction.png
 └── launch.sh
 
-37 directories, 259 files
+37 directories, 258 files
 
 ```

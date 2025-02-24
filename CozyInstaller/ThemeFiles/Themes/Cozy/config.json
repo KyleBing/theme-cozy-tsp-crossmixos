@@ -1,7 +1,7 @@
 {
     "name": "Cozy",
-    "font": "nunwen.ttf",
-    "fontascii": "nunwen.ttf",
+    "font": "noto-sans.ttf",
+    "fontascii": "noto-sans.ttf",
     "fontsize": {
         "nav_font1": 32,
         "nav_font2": 24,
