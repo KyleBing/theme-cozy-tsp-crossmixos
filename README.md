@@ -5,7 +5,6 @@
 # Theme Cozy 
 for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 
-![Preview](./CozyInstaller/ThemeFiles/Themes/Cozy/preview@1x.png)
 
 ![Preview](./CozyInstaller/ThemeFiles/Themes/Cozy/preview@1x.png)
 
