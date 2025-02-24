@@ -22,6 +22,8 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 > Your TrimUI Smart Pro's version need to be v1.3.0  
 > You can find the latest version in [https://github.com/cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS)
 
+It would take several copy-and-paste actions to apply a theme, so to make the process more convenient, I’ve created an app to handle it.   
+You can use this app by following the instructions below.
 
 1. Download the project file.
    <img width="953" alt="download instruction" src="https://github.com/user-attachments/assets/4835a0ee-6730-4fab-bc97-7870b8a9f50b" />

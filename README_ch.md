@@ -20,6 +20,7 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 > 你的设备需要安装 CrossMix OS，并且版本是 v1.3.0  
 > 从这里更新最新系统 [https://github.com/cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS)
 
+为了更方便的安装主题相关文件，我作了一个 app 来处理这些事。按照下文指示操作即可。
 
 1. 下载整个项目文件。
    <img width="953" alt="download instruction" src="https://github.com/user-attachments/assets/4835a0ee-6730-4fab-bc97-7870b8a9f50b" />
