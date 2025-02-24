@@ -7,6 +7,12 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 
 ![Preview](./CozyInstaller/ThemeFiles/Themes/Cozy/preview@1x.png)
 
+![Preview](./Photos/cozy_2000w_2.jpg)
+
+![Preview](./Photos/cozy_2000w_3.jpg)
+
+![Preview](./Photos/cozy_2000w_4.jpg)
+
 
 ## 一、安装说明 - 通过 App 安装
 
@@ -35,7 +41,7 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 
 ## 二、安装说明 - 手动安装
 
-> IMPORTANT:   
+> [!IMPORTANT]  
 > 你的设备需要安装 CrossMix OS，并且版本是 v1.3.0  
 > 从这里更新最新系统 [https://github.com/cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS)
 

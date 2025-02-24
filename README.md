@@ -7,6 +7,14 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 
 ![Preview](./CozyInstaller/ThemeFiles/Themes/Cozy/preview@1x.png)
 
+![Preview](./CozyInstaller/ThemeFiles/Themes/Cozy/preview@1x.png)
+
+![Preview](./Photos/cozy_2000w_2.jpg)
+
+![Preview](./Photos/cozy_2000w_3.jpg)
+
+![Preview](./Photos/cozy_2000w_4.jpg)
+
 
 ## Instructions - App install
 
@@ -34,7 +42,7 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 
 ## Instructions - Manual install
 
-> IMPORTANT:   
+> [!IMPORTANT]  
 > Your TrimUI Smart Pro must be running version 1.3.0.
 > You can find the latest version at [https://github.com/cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS)
 
