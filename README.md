@@ -93,7 +93,7 @@ This situation may arise if you’ve made significant changes to CrossMix OS's f
 I’ve previously created themes for three other open-source handheld devices. Feel free to check them out if you’re interested!
 
 - **Cosy for Miyoo Mini+** `OnionOS` [onion-theme-cosy](https://github.com/KyleBing/onion-theme-cosy)
-- **Cosy for Miyoo Flip** `OnionOS` [theme-cosy-miyoo-flip-stock](https://github.com/KyleBing/theme-cosy-miyoo-flip-stock)
+- **Cosy for Miyoo Flip** `StockOS` [theme-cosy-miyoo-flip-stock](https://github.com/KyleBing/theme-cosy-miyoo-flip-stock)
 - **Cosy for Miyoo A30** `SpruceOS` [spruce-theme-cosy](https://github.com/KyleBing/spruce-theme-cosy)
 
 Here are some retro console icon files available for you to use freely.

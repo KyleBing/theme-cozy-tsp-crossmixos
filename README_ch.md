@@ -87,9 +87,9 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 
 我之前还做了 Miyoo 三款设备的主题，都是同一个名，有兴趣的可以看一看。
 
-- Cosy for Miyoo Mini+ `OnionOS` [onion-theme-cosy](https://github.com/KyleBing/onion-theme-cosy)
-- Cosy for Miyoo Flip `OnionOS` [theme-cosy-miyoo-flip-stock](https://github.com/KyleBing/theme-cosy-miyoo-flip-stock)
-- Cosy for Miyoo A30 `SpruceOS` [spruce-theme-cosy](https://github.com/KyleBing/spruce-theme-cosy)
+- **Cosy for Miyoo Mini+** `OnionOS` [onion-theme-cosy](https://github.com/KyleBing/onion-theme-cosy)
+- **Cosy for Miyoo Flip** `StockOS` [theme-cosy-miyoo-flip-stock](https://github.com/KyleBing/theme-cosy-miyoo-flip-stock)
+- **Cosy for Miyoo A30** `SpruceOS` [spruce-theme-cosy](https://github.com/KyleBing/spruce-theme-cosy)
 
 
 这里还有我绘制的一些复古游戏机图标，各种尺寸，随便用，主要不商用就可以：
