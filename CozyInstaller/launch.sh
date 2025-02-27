@@ -140,6 +140,7 @@ main() {
     elif [ "$button" = "Y" ]; then
         replace_app_icons
         replace_app_icons_system
+        add_emu_icons
         /mnt/SDCARD/System/usr/trimui/scripts/infoscreen.sh -i ${bg_exit}
         exit 0
 
