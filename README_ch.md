@@ -95,306 +95,53 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 这里还有我绘制的一些复古游戏机图标，各种尺寸，随便用，主要不商用就可以：
 - [retro-game-console-icons](https://github.com/KyleBing/retro-game-console-icons)
 
-## 文件列表
 
-```bash
-CozyInstaller
-├── ThemeFiles
-│   ├── Apps
-│   │   ├── BootLogo
-│   │   │   └── icon.png
-│   │   ├── EbookReader
-│   │   │   └── icon.png
-│   │   ├── EmuCleaner
-│   │   │   └── EmulatorsCleaner.png
-│   │   ├── FileManager
-│   │   │   └── commander.png
-│   │   ├── MusicPlayer
-│   │   │   └── icon.png
-│   │   ├── OTA-update
-│   │   │   └── icon.png
-│   │   ├── PortMaster
-│   │   │   └── icon.png
-│   │   ├── Reboot
-│   │   │   └── icon.png
-│   │   ├── RetroArch
-│   │   │   └── retroarch.png
-│   │   ├── Scraper
-│   │   │   └── Scraper.png
-│   │   ├── ScreenRecorder
-│   │   │   └── icon
-│   │   │       └── icon.png
-│   │   ├── SystemTools
-│   │   │   └── icon.png
-│   │   ├── Terminal
-│   │   │   └── icon.png
-│   │   ├── random
-│   │   │   └── icon.png
-│   │   └── user_guide
-│   │       └── icon.png
-│   ├── BOOT_LOGO
-│   │   └── COZY.bmp
-│   ├── Cozy.sh
-│   ├── Icons
-│   │   └── Cozy
-│   │       ├── Emus
-│   │       │   ├── AMIGA.png
-│   │       │   ├── ARDUBOY.png
-│   │       │   ├── ATARI2600.png
-│   │       │   ├── ATARI5200.png
-│   │       │   ├── ATARI7800.png
-│   │       │   ├── ATARI800-alt.png
-│   │       │   ├── ATARIST.png
-│   │       │   ├── C64.png
-│   │       │   ├── CHAILOVE.png
-│   │       │   ├── CHANNELF.png
-│   │       │   ├── COLECO.png
-│   │       │   ├── COLSGM.png
-│   │       │   ├── CPC.png
-│   │       │   ├── CPS1.png
-│   │       │   ├── CPS2.png
-│   │       │   ├── CPS3.png
-│   │       │   ├── DC.png
-│   │       │   ├── DOOM.png
-│   │       │   ├── DOS.png
-│   │       │   ├── EASYRPG.png
-│   │       │   ├── FC.png
-│   │       │   ├── FDS.png
-│   │       │   ├── GB.png
-│   │       │   ├── GBA.png
-│   │       │   ├── GBC.png
-│   │       │   ├── GG.png
-│   │       │   ├── GW.png
-│   │       │   ├── INTELLIVISION.png
-│   │       │   ├── LYNX.png
-│   │       │   ├── MAME.png
-│   │       │   ├── MD.png
-│   │       │   ├── MDMSU.png
-│   │       │   ├── MEGADUCK.png
-│   │       │   ├── MS.png
-│   │       │   ├── MSX.png
-│   │       │   ├── N64.png
-│   │       │   ├── N64DD.png
-│   │       │   ├── NDS.png
-│   │       │   ├── NEOCD.png
-│   │       │   ├── NEOGEO.png
-│   │       │   ├── NGC.png
-│   │       │   ├── NGP.png
-│   │       │   ├── OPENBOR.png
-│   │       │   ├── PCE.png
-│   │       │   ├── PCECD.png
-│   │       │   ├── PICO.png
-│   │       │   ├── POKEMINI.png
-│   │       │   ├── PORTS.png
-│   │       │   ├── PS.png
-│   │       │   ├── PSP.png
-│   │       │   ├── SCUMMVM.png
-│   │       │   ├── SEGA32X.png
-│   │       │   ├── SEGACD.png
-│   │       │   ├── SFC.png
-│   │       │   ├── SFCMSU.png
-│   │       │   ├── SFX.png
-│   │       │   ├── SG1000.png
-│   │       │   ├── SGB.png
-│   │       │   ├── SUFAMI.png
-│   │       │   ├── SUPERVISION.png
-│   │       │   ├── TIC.png
-│   │       │   ├── TYRQUAKE.png
-│   │       │   ├── VB.png
-│   │       │   ├── VECTREX.png
-│   │       │   ├── VIDEOPAC-alt.png
-│   │       │   ├── VIDEOPAC.png
-│   │       │   ├── VIDEOS.png
-│   │       │   ├── WS.png
-│   │       │   ├── WSC.png
-│   │       │   ├── X68000.png
-│   │       │   └── ZXS.png
-│   │       └── preview.png
-│   ├── Themes
-│   │   └── Cozy
-│   │       ├── config.json
-│   │       ├── noto-sans.ttf
-│   │       ├── preview-2.png
-│   │       ├── preview-2@1x.png
-│   │       ├── preview.png
-│   │       ├── preview@1x.png
-│   │       ├── skin
-│   │       │   ├── best-mask-selected.png
-│   │       │   ├── best-mask-unselected.png
-│   │       │   ├── best-selected-icon.png
-│   │       │   ├── best-unselected-icon.png
-│   │       │   ├── bg-button-01-selected.png
-│   │       │   ├── bg-button-01-unselect.png
-│   │       │   ├── bg-button-02-selected.png
-│   │       │   ├── bg-button-02-unselect.png
-│   │       │   ├── bg-iotesting.png
-│   │       │   ├── bg-list-long-a.png
-│   │       │   ├── bg-list-long-n.png
-│   │       │   ├── bg-menu-01.png
-│   │       │   ├── bg-menu-02.png
-│   │       │   ├── bg-menu-03.png
-│   │       │   ├── bg-menu-04.png
-│   │       │   ├── bg-menu-05.png
-│   │       │   ├── bg-menu-06.png
-│   │       │   ├── bg-menu-07.png
-│   │       │   ├── bg-menu-08.png
-│   │       │   ├── bg-menu-09.png
-│   │       │   ├── bg-menu-item.png
-│   │       │   ├── bg-progress.png
-│   │       │   ├── bg-search-input.png
-│   │       │   ├── bg-setting-textfield.png
-│   │       │   ├── bg-wifi-button-01-selected.png
-│   │       │   ├── bg-wifi-button-01-unselect.png
-│   │       │   ├── bg-wifi-button-02-selected.png
-│   │       │   ├── bg-wifi-button-02-unselect.png
-│   │       │   ├── bg-wifi-keyboard.png
-│   │       │   ├── bg.png
-│   │       │   ├── btn-bg-f.png
-│   │       │   ├── btn-bg-n.png
-│   │       │   ├── button-tips-L.png
-│   │       │   ├── button-tips-R.png
-│   │       │   ├── button-tips-START.png
-│   │       │   ├── button-tips-X.png
-│   │       │   ├── button-tips-Y.png
-│   │       │   ├── checkbox-checked.png
-│   │       │   ├── checkbox-uncheck.png
-│   │       │   ├── float-win-mask.png
-│   │       │   ├── flow-item-bg-f-320.png
-│   │       │   ├── flow-item-bg-n-250.png
-│   │       │   ├── flow-item-bg-n-320.png
-│   │       │   ├── grid-item-bg-f.png
-│   │       │   ├── grid-item-bg-n.png
-│   │       │   ├── ic-OK.png
-│   │       │   ├── ic-abc.png
-│   │       │   ├── ic-batery-0%.png
-│   │       │   ├── ic-batery-100%.png
-│   │       │   ├── ic-batery-25%.png
-│   │       │   ├── ic-batery-50%.png
-│   │       │   ├── ic-batery-75%.png
-│   │       │   ├── ic-bluetooth-n.png
-│   │       │   ├── ic-bluetooth.png
-│   │       │   ├── ic-charging.png
-│   │       │   ├── ic-delete.png
-│   │       │   ├── ic-display-n.png
-│   │       │   ├── ic-display.png
-│   │       │   ├── ic-file.png
-│   │       │   ├── ic-folder-580.png
-│   │       │   ├── ic-folder.png
-│   │       │   ├── ic-game-580.png
-│   │       │   ├── ic-game.png
-│   │       │   ├── ic-hotspot-n.png
-│   │       │   ├── ic-hotspot.png
-│   │       │   ├── ic-keymap-n.png
-│   │       │   ├── ic-keymap.png
-│   │       │   ├── ic-left-arrow-a.png
-│   │       │   ├── ic-left-arrow-n.png
-│   │       │   ├── ic-right-arrow-a.png
-│   │       │   ├── ic-right-arrow-n.png
-│   │       │   ├── ic-shift-active.png
-│   │       │   ├── ic-shift.png
-│   │       │   ├── ic-sound-mute.png
-│   │       │   ├── ic-sound-n.png
-│   │       │   ├── ic-space.png
-│   │       │   ├── ic-symbol.png
-│   │       │   ├── ic-system-n.png
-│   │       │   ├── ic-system.png
-│   │       │   ├── ic-theme-n.png
-│   │       │   ├── ic-theme.png
-│   │       │   ├── ic-vibration.png
-│   │       │   ├── ic-volume-n.png
-│   │       │   ├── ic-volume.png
-│   │       │   ├── ic-wifi-01.png
-│   │       │   ├── ic-wifi-02.png
-│   │       │   ├── ic-wifi-03.png
-│   │       │   ├── ic-wifi-04.png
-│   │       │   ├── ic-wifi-05.png
-│   │       │   ├── ic-wifi-n.png
-│   │       │   ├── ic-wifi.png
-│   │       │   ├── icon-back.png
-│   │       │   ├── icon-bluetooth-gamepad.png
-│   │       │   ├── icon-bluetooth-headphone.png
-│   │       │   ├── icon-bluetooth.png
-│   │       │   ├── icon-game-type.png
-│   │       │   ├── icon-hotspot.png
-│   │       │   ├── icon-star.png
-│   │       │   ├── input-wifi-assword.png
-│   │       │   ├── joypad-bg-menu-02.png
-│   │       │   ├── joypad-pad.png
-│   │       │   ├── joypad-spot.png
-│   │       │   ├── lang_cht.png
-│   │       │   ├── lang_cn.png
-│   │       │   ├── lang_en.png
-│   │       │   ├── lang_es.png
-│   │       │   ├── lang_jp.png
-│   │       │   ├── lang_ko.png
-│   │       │   ├── lang_pt.png
-│   │       │   ├── list-item-1line-sort-bg-f.png
-│   │       │   ├── list-item-1line-sort-bg-n.png
-│   │       │   ├── list-item-2line-bg-f.png
-│   │       │   ├── list-item-2line-bg-n.png
-│   │       │   ├── list-item-2line-long-bg-f.png
-│   │       │   ├── list-item-2line-long-bg-n.png
-│   │       │   ├── list-item-2line-short-bg-f.png
-│   │       │   ├── list-item-2line-short-bg-n.png
-│   │       │   ├── main-nav-light-left.png
-│   │       │   ├── main-nav-light-mid.png
-│   │       │   ├── main-nav-light-right.png
-│   │       │   ├── main-nav-sel-left.png
-│   │       │   ├── main-nav-sel-mid.png
-│   │       │   ├── main-nav-sel-right.png
-│   │       │   ├── menu-list-sel.png
-│   │       │   ├── nav-logo.png
-│   │       │   ├── pop-bg.png
-│   │       │   ├── progress-Full.png
-│   │       │   ├── progress-dot1.png
-│   │       │   ├── progress-dot2.png
-│   │       │   ├── progress-dot3.png
-│   │       │   ├── progress-dot4.png
-│   │       │   ├── search-keyboard-bg.png
-│   │       │   ├── sw-off.png
-│   │       │   ├── sw-on.png
-│   │       │   ├── tips-A.png
-│   │       │   ├── tips-B.png
-│   │       │   ├── tips-L.png
-│   │       │   ├── tips-L2.png
-│   │       │   ├── tips-MENU.png
-│   │       │   ├── tips-R.png
-│   │       │   ├── tips-R2.png
-│   │       │   ├── tips-SELECT.png
-│   │       │   ├── wifi-connected.png
-│   │       │   └── wifi-locked.png
-│   │       └── sound
-│   │           └── click.wav
-│   ├── trimui
-│   │   └── res
-│   │       └── crossmix-os
-│   │           └── style_Cozy
-│   │               ├── bg-exit.png
-│   │               ├── bg-info.png
-│   │               ├── bg-plain.png
-│   │               ├── bg-stop-exit.png
-│   │               └── icon.ico
-│   └── usr
-│       └── trimui
-│           └── apps
-│               ├── fn_editor
-│               │   └── icon.png
-│               ├── moonlight
-│               │   └── ic-moonlight.png
-│               ├── player
-│               │   └── ic-media-player.png
-│               └── usb_storage
-│                   └── usb_icon.png
-├── bg_exit.png
-├── bg_icon.png
-├── bg_icon_system.png
-├── bg_skin.png
-├── bg_theme.png
-├── config.json
-├── icon.png
-├── instruction.png
-└── launch.sh
+## 绘制缺失游戏机图标的进程
 
-37 directories, 258 files
+[Icons Progress](./IconProgress.md)
+
+## 项目文件结构
+
+```shell
+CozyInstaller/
+└── ThemeFiles
+    ├── Apps
+    │   ├── BootLogo
+    │   ├── EbookReader
+    │   ├── EmuCleaner
+    │   ├── FileManager
+    │   ├── MusicPlayer
+    │   ├── OTA-update
+    │   ├── PortMaster
+    │   ├── Reboot
+    │   ├── RetroArch
+    │   ├── Scraper
+    │   ├── ScreenRecorder
+    │   │   └── icon
+    │   ├── SystemTools
+    │   ├── Terminal
+    │   ├── random
+    │   └── user_guide
+    ├── BOOT_LOGO
+    ├── Icons
+    │   └── Cozy
+    │       └── Emus
+    ├── Themes
+    │   └── Cozy
+    │       ├── skin
+    │       └── sound
+    ├── trimui
+    │   └── res
+    │       └── crossmix-os
+    │           └── style_Cozy
+    └── usr
+        └── trimui
+            └── apps
+                ├── fn_editor
+                ├── moonlight
+                ├── player
+                └── usb_storage
+
+37 directories
 
 ```
