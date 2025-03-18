@@ -39,7 +39,7 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 4. 切到 **Apps** 标签，你会看到多出一个 app 名为 **Cozy Installer**  
     <img width="200" alt="cozy installer app" src="./CozyInstaller/icon.png"/>  
 5. 打开它，就能看到里面的提示如下，就是提示一些要添加或替换的文件：
-    ![cozy_installer_instruction](./CozyInstaller/instruction.png)
+    ![cozy_installer_instruction](CozyInstaller/bg/instruction.png)
 
 6. 根据提示按下按键 <kbd>A</kbd>，这个 app 就会自动将所有主题相关文件添加到系统中，包含如下：
    - 主题部署脚本文件 `Cozy.sh`

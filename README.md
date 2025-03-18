@@ -40,7 +40,7 @@ You can use this app by following the instructions below.
 4. Switch to the Apps tab, where you’ll see an app named **Cozy Installer**.  
     <img width="200" alt="cozy installer app" src="./CozyInstaller/icon.png"/>  
 5. Open the app to view the instructions, as shown below:
-    ![cozy_installer_instruction](./CozyInstaller/instruction.png)
+    ![cozy_installer_instruction](CozyInstaller/bg/instruction.png)
 
 6. Press <kbd>A</kbd> to automatically install the Cozy theme onto your SD card. This includes:
    - theme deploy file `Cozy.sh`
