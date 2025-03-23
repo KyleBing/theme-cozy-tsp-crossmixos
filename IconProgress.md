@@ -1,20 +1,20 @@
 - [x] MAME2003+, MAME2010 `2025-02-27`
 - [x] ATARI800 `2025-02-28`
-- [ ] X1
+- [x] X1 `2025-03-22`
 - [x] MSX2 `2025-02-28`
-- [ ] PC88
-- [ ] PC98
-- [ ] SUPERVISION-alt
-- [ ] SATELLAVIEW
-- [ ] CANNONBALL
-- [ ] ENTERPRISE  `not found`
-- [ ] AMIGACDTV
+- [x] PC88 `2025-03-23`
+- [x] PC98 `2025-03-23`
+- [x] SUPERVISION-alt `2025-03-22`
+- [x] SATELLAVIEW `2025-03-23`
+- [x] CANNONBALL `2025-03-23`
+- [x] ENTERPRISE `2025-03-22`
+- [x] AMIGACDTV `2025-03-21`
 - [x] CAVESTORY `2025-03-04`
-- [ ] DINOTHAWR
+- [x] DINOTHAWR `2025-03-21`
 - [x] FLASHBACK `2025-03-04`
 - [x] PANASONIC `2025-03-04`
 - [x] LOWRESNX `2025-03-08`
-- [ ] PSPMINIS  `PSP GO?`
+- [x] PSPMINIS `2025-03-21` `not a game handheld, but a type of game`
 - [x] VIDEOTON `2025-03-03`
 - [x] ADVMAME `2025-03-08`
 - [x] AMIGACD `2025-03-01`
@@ -22,8 +22,8 @@
 - [x] cpc-alt `2025-03-01`
 - [x] CPLUS4 `2025-02-28`
 - [x] DAPHNE `2025-03-04`
-- [ ] PALMOS
-- [ ] SATURN
+- [x] PALMOS `2025-03-19`
+- [x] SATURN `2025-03-19`
 - [x] UZEBOX `2025-03-08`
 - [x] LUTRO `2025-03-01`
 - [x] NAOMI `2025-03-01`

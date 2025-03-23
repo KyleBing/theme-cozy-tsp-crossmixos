@@ -77,7 +77,7 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 8. 完成。
 
 
-## Credit
+## 字体
 
 **Font noto-sans:** from [fontsource](https://github.com/fontsource/fontsource)
 
@@ -99,6 +99,8 @@ for TrimUI Smart Pro（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 ## 绘制缺失游戏机图标的进程
 
 [Icons Progress](./IconProgress.md)
+
+2025-03-23 绘制完成
 
 ## 项目文件结构
 

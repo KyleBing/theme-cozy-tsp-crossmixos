@@ -82,7 +82,7 @@ This situation may arise if you’ve made significant changes to CrossMix OS's f
 8. Done! Enjoy your new theme.
 
 
-## Credit
+## Font
 
 **Font noto-sans:** from [fontsource](https://github.com/fontsource/fontsource)
 
@@ -104,6 +104,8 @@ Here are some retro console icon files available for you to use freely.
 ## The progress of drawing missing game console icons.
 
 [Icons Progress](./IconProgress.md)
+
+2025-03-23 All done.
 
 ## Struct
 
